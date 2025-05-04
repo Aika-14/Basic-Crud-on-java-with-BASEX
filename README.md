@@ -18,3 +18,7 @@ First of all, BaseX is kind of trash so I feel bad if you have to work with it h
 
 nah i'm kidding haha i had a lot of problems getting it to work and i don't really remember what it is the first username and password so you'll have to find out
 
+### Troubleshooting
+
+if you have any problem put an issue and i'll kindly try to help you in what problem you have
+
