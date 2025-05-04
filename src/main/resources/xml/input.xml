@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<library>
+    <book>
+        <title>Steins;Gate</title>
+        <author>Chiyomaru Shikura</author>
+        <year>2009</year>
+        <genre>Visual Novel, Sci-Fi</genre>
+        <price currency="USD">29.99</price>
+    </book>
+    <book>
+        <title>Chaos;Head</title>
+        <author>5bp.</author>
+        <year>2008</year>
+        <genre>Visual Novel, Thriller</genre>
+        <price currency="USD">19.99</price>
+    </book>
+    <book>
+        <title>Zero Escape: Virtue's Last Reward</title>
+        <author>Chiyomaru Shikura</author>
+        <year>2012</year>
+        <genre>Visual Novel, Puzzle</genre>
+        <price currency="USD">34.99</price>
+    </book>
+    <book>
+        <title>The Legend of Heroes: Trails in the Sky</title>
+        <author>Nihon Falcom</author>
+        <year>2004</year>
+        <genre>RPG</genre>
+        <price currency="USD">49.99</price>
+    </book>
+    <book>
+        <title>Persona 5</title>
+        <author>P Studio</author>
+        <year>2016</year>
+        <genre>RPG</genre>
+        <price currency="USD">59.99</price>
+    </book>
+</library>
