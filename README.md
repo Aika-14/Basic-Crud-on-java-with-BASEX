@@ -1,38 +1,38 @@
-# 🧩 Cómo instalar BaseX y hacer tu primera consulta XQuery
+# 🧩 How to Install BaseX and Run Your First XQuery
 
-[BaseX](https://basex.org) es una base de datos nativa para XML muy útil para trabajar con XQuery. Aquí te explico cómo instalarlo y empezar a usarlo.
-
----
-
-## 1️⃣ Instalar BaseX en Windows
-
-### ✅ Paso 1: Descargar BaseX
-
-1. Ve a [https://basex.org/download](https://basex.org/download)
-2. Descarga el archivo **ZIP** o el instalador **EXE** para Windows  
-   *(Recomiendo el EXE si quieres algo rápido)*
-
-### ✅ Paso 2: Instalar o ejecutar
-
-- Si descargaste el `.EXE`, instálalo normalmente y abre **BaseX GUI** desde el menú de inicio.
-- Si descargaste el `.ZIP`, extrae y abre `basexgui.bat`.
+First of all, BaseX is kind of trash so I feel bad if you have to work with it hahaha, but I’ve been in your shoes before, so here’s some info to make it work in a simple way.
 
 ---
 
-## 2️⃣ Crear una base de datos XML
+## 1️⃣ Install BaseX on Windows
 
-### ✅ Paso 3: Tener un archivo XML
+### ✅ Step 1: Download BaseX
 
-Crea un archivo llamado `libros.xml` con este contenido:
+1. Go to [https://basex.org/download](https://basex.org/download)
+2. Download the **ZIP** file or the **EXE installer** for Windows  
+   *(I recommend the EXE if you want the quickest way)*
+
+### ✅ Step 2: Install or run it
+
+- If you downloaded the `.EXE`, install it as usual and open **BaseX GUI** from the start menu.
+- If you downloaded the `.ZIP`, extract it and run `basexgui.bat`.
+
+---
+
+## 2️⃣ Create an XML Database
+
+### ✅ Step 3: Prepare an XML file
+
+Create a file called `books.xml` with the following content:
 
 ```xml
-<biblioteca>
-  <libro>
-    <titulo>1984</titulo>
-    <autor>George Orwell</autor>
-  </libro>
-  <libro>
-    <titulo>Fahrenheit 451</titulo>
-    <autor>Ray Bradbury</autor>
-  </libro>
-</biblioteca>
+<library>
+  <book>
+    <title>1984</title>
+    <author>George Orwell</author>
+  </book>
+  <book>
+    <title>Fahrenheit 451</title>
+    <author>Ray Bradbury</author>
+  </book>
+</library>
